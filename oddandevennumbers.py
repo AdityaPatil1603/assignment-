@@ -7,4 +7,8 @@ for i in numbers:
     else:
         odd+=1
 print("the total even numbers in the string ",even)
-print("total number odd numbers in the string",odd)
+print("the total odd numbers in the string",odd)
+
+#expected output:
+the total even numbers in the string  4
+the total odd numbers in the string 5
