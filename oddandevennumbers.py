@@ -6,9 +6,9 @@ for i in numbers:
         even+=1
     else:
         odd+=1
-print("the total even numbers in the string ",even)
-print("the total odd numbers in the string",odd)
+print("the total even numbers in the series ",even)
+print("the total odd numbers in the series",odd)
 
 #expected output:
-the total even numbers in the string  4
-the total odd numbers in the string 5
+the total even numbers in the series  4
+the total odd numbers in the series 5
