@@ -12,3 +12,10 @@ def up_low(x):
   print("No. of lowerCase letter in the String",l)
   print("No. of upperCase letter in the String",u)
 up_low(x)
+
+
+
+#Expected output:
+Enter the string:- The quick Brow Fox
+No. of lowerCase letter in the String 12
+No. of upperCase letter in the String 3
