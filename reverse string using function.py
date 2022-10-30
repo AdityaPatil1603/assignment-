@@ -5,5 +5,5 @@ string=reverse (s)
 print("reverse of string is ",string)
 
 #Expected output:
-enter the string: aditya 
-reverse of string is aytida
+enter the string: 1234abcd
+reverse of string is dcba4321
